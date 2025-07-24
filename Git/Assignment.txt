@@ -1,0 +1,9 @@
+git clone: to clone a GitHub repo in a local system. 
+git init: to initialize a new local git repository.
+git pull: to fetch and download content from a remote repository and immediately update the local repository to match that content.
+git add . : to make the staged files ready to be committed.
+git status: it shows the current state of the working directory.
+git commit -m "commit message" : to create a snapshot of the staged files.
+git log : used to view the changes in a file.
+
+
