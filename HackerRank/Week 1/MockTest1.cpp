@@ -1,4 +1,4 @@
-//first question's function code of mock test
+//first question's function code of mock test i.e Find the Median
 int findMedian(vector<int> arr) {
     sort(arr.begin(),arr.end());
     int median=arr[arr.size()/2];
